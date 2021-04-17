@@ -10,7 +10,7 @@ A query was run to ensure that the Movies table had 6,052 rows. Another query wa
 
 Please see below the screenshots of the output of each query:
 
-Movies Query
+Movies Query:
 
 ![movies_query.png](https://github.com/DanielGandia/Movies-ETL/blob/main/Resources/movies_query.png)
 
